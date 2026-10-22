@@ -21,7 +21,7 @@ devtools::install("rapid.spreadsheets", dependencies = TRUE, build_vignettes = T
 
 or install directly from GitHub:
 ```{r}
-devtools::install_github("RAPID-ONS/rapid.spreadsheets", dependencies = TRUE, build_vignettes = TRUE)
+devtools::install_github("ONSdigital/rapid.spreadsheets", dependencies = TRUE, build_vignettes = TRUE)
 ```
 ## User manual
 To view vignettes (tutorial) on how to use the package, run the following code in the console after installation:
